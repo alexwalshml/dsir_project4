@@ -8,12 +8,19 @@ Credit card fraud is a growing problem in our society as more and more transacti
 #### Repository overview
 
 - Problem Statement
+- Generation from data from simmulation tool
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Modeling and Evaluation 
 - Executive Summary
 
 ---
+
+## Generation from data from simmulation tool
+
+#### The following steps were taken to generate the simmulation data
+- Used version 1.0 of https://github.com/namebrandon/Sparkov_Data_Generation, the output of which was 60 CSVs with credit card transactions for 1500 customers spanning 2Yrs
+- Wrote a script to combine the 60 seperate CSVs into 1 file 'fraud_records.csv'
 
 ## Exploratory data analysis (EDA)
 
