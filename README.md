@@ -18,11 +18,9 @@ Credit card fraud is a growing problem in our society as more and more transacti
 ## Exploratory data analysis (EDA)
 
 #### EDA will consist of examining the following:
-- Inspecting most common words
-- distributions of post lengths
-- Unique users
-- Most common bigrams
-- Inspect class proportions 
+- Examining summary statistics
+- Highlight trends in the data
+- Examining distributions to inform our modeling approach
 
 ## Feature Engineering
 
