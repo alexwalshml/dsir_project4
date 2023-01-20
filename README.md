@@ -57,17 +57,17 @@ We analyzed the data and highlighted meaningful trends from the data that relate
 Below outlines what files are in which folders of this repository.
 
 **notebooks**
-
+```
 - EDA.ipynb contains all of the code used in data cleaning and EDA
 - Modeling_subset.ipynb contains all of the code used in preprocessing and initial model evaluation on a subset of our data
 - Final_model.ipynb contains all of the code in developing our best model and our summary and recommendations
-
+```
 **data**
-
+```
 - preprocessed_subsample_100k.csv is the data subset used in our Modeling_subset notebook
 - fraud_records.csv.csv is the data created from our simulation and used in our EDA notebook
 - preprocessed_all_data.csv is the data used in our final model
-
+```
 **Presentataion Slides**
 
 - PDF of the project presentation slides.
