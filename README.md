@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Nearly half of all Americans experienced some form of fraudulent charges in 2021, according to the security.org annual Fraud report. As society moves increasingly towards a cashless society every year, we must continue to advance our ability to detect fraud and protect consumers. Unfortunately, credit card fraud poses a significant challenge for classification algorithms as the classes are typically heavily imbalanced. For this project, we analyze simulated credit card fraud data and aim to build a model that can accurately detect fraud. 
+Nearly half of all Americans experienced some form of fraudulent charges in 2021, according to the security.org annual Fraud report. As society moves increasingly towards a cashless society every year, we must continue to advance our ability to detect fraud and protect consumers. Unfortunately, credit card fraud poses a significant challenge for classification algorithms as the classes are typically heavily imbalanced. For this project, we analyze simulated credit card fraud data. We aim to develop a classification model to predict credit card fraud to reduce identity theft and financial losses of U.S. citizens.
 
 
 #### Repository overview
@@ -42,13 +42,8 @@ Nearly half of all Americans experienced some form of fraudulent charges in 2021
 
 ## Executive Summary
 
-In this project, we leveraged a simulation to generate useful data to train and build a fraud detection model to protect consumers from credit card fraud. 
-We analyzed the data and highlighted meaningful trends from the data that related to predicting fraudulent activity. We built several classification models to evaluate model performance and address the challenges of highly imbalanced classes. We engineered several features and transformed the data when applicable to aid in model performance. The final model was a Random Forest algorithm which was nearly 99% accurate, and our model did not detect only 1% of all instances of fraud. We recommend implementing our algorithm to reduce future fraud and protect consumers. 
+In this project, we leveraged a simulation-generated data to train and build a fraud detection model to protect consumers from credit card fraud. We analyzed the data and highlighted meaningful trends that related to predicting fraudulent activity. We built several classification models to evaluate model performance and address the challenges of highly imbalanced classes. We engineered several features and transformed the data when applicable to aid in model performance. The final model was a Random Forest algorithm which was nearly 99% accurate, with only 2% false negative predictions. We recommend implementing our algorithm to reduce future fraud and protect consumers. 
 
-## Recommendations
-
-In this project, we leveraged a simulation to generate useful data to train and build a fraud detection model to protect consumers from credit card fraud. 
-We analyzed the data and highlighted meaningful trends from the data that related to predicting fraudulent activity. We built several classification models to evaluate model performance and address the challenges of highly imbalanced classes. We engineered several features and transformed the data when applicable to aid in model performance. The final model was a Random Forest algorithm which was nearly 99% accurate, and our model did not detect only 1% of all instances of fraud. We recommend implementing our algorithm to reduce future fraud and protect consumers. 
 
 ---
 
