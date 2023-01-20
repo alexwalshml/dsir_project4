@@ -27,8 +27,9 @@ Credit card fraud is a growing problem in our society as more and more transacti
 ## Feature Engineering
 
 #### Feature engineering will consist of examining the following:
-- blah 
-
+- Rolling calculations for transaction amount, position, time, etc.
+- Calculating quantities for various lengths of time
+- Analysis of probability distribution of the feature space
 
 ## Modeling and Evaluation
 
